@@ -1,8 +1,8 @@
 #  First Unique Character in a String
 
-##### Link: https://leetcode.com/problems/first-unique-character-in-a-string/
+### Link: https://leetcode.com/problems/first-unique-character-in-a-string/
 
-##### Description:
+#### Description:
 
 ```
 Given a string, find the first non-repeating character in it and return its index. If it doesn't exist, return -1.
@@ -19,7 +19,7 @@ return 2.
 Note: You may assume the string contains only lowercase English letters.
 ```
 
-HashTable solution results
+#### JavaScript HashTable solution results
 
 ```
 Runtime: 128 ms, faster than 48.23% of JavaScript online submissions for First Unique Character in a String.
