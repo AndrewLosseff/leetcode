@@ -25,3 +25,11 @@ Note: You may assume the string contains only lowercase English letters.
 Runtime: 128 ms, faster than 48.23% of JavaScript online submissions for First Unique Character in a String.
 Memory Usage: 40.7 MB, less than 38.29% of JavaScript online submissions for First Unique Character in a String.
 ```
+
+
+#### Ruby Hash solution
+
+```
+Runtime: 408 ms, faster than 33.13% of Ruby online submissions for First Unique Character in a String.
+Memory Usage: 14.5 MB, less than 28.31% of Ruby online submissions for First Unique Character in a String.
+```
