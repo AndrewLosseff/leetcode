@@ -40,3 +40,8 @@ Memory Usage: 14.5 MB, less than 28.31% of Ruby online submissions for First Uni
 Runtime: 304 ms, faster than 58.60% of Swift online submissions for First Unique Character in a String.
 Memory Usage: 21.3 MB, less than 54.03% of Swift online submissions for First Unique Character in a String.
 ```
+
+#### Python Hash solution
+
+```
+```
