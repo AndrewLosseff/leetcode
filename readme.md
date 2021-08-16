@@ -2,9 +2,9 @@
 
 ### Problems:
 
-##### First Unique Character in a String
+### #1 Hash Map
+#### [First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/)
 
-###### Link:  https://leetcode.com/problems/first-unique-character-in-a-string/
+### Languages
 
-######  Sovled with: 
-- Hash Map
+There might be different set of languages depend on the problem. 
